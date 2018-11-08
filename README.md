@@ -1,0 +1,2 @@
+# multiples
+Code Wars exercise
